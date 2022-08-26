@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/noise-world-generator/static/css/main.c00fe869.css",
-    "main.js": "/noise-world-generator/static/js/main.b529d3d7.js",
+    "main.js": "/noise-world-generator/static/js/main.e27de9d3.js",
     "static/js/6496.93d083f0.chunk.js": "/noise-world-generator/static/js/6496.93d083f0.chunk.js",
     "static/js/1067.c8d94255.chunk.js": "/noise-world-generator/static/js/1067.c8d94255.chunk.js",
     "static/js/7612.c83b6e49.chunk.js": "/noise-world-generator/static/js/7612.c83b6e49.chunk.js",
@@ -415,10 +415,10 @@
     "static/media/building_windows_S.png": "/noise-world-generator/static/media/building_windows_S.571ff29c8abfce4dda3f.png",
     "index.html": "/noise-world-generator/index.html",
     "main.c00fe869.css.map": "/noise-world-generator/static/css/main.c00fe869.css.map",
-    "main.b529d3d7.js.map": "/noise-world-generator/static/js/main.b529d3d7.js.map"
+    "main.e27de9d3.js.map": "/noise-world-generator/static/js/main.e27de9d3.js.map"
   },
   "entrypoints": [
     "static/css/main.c00fe869.css",
-    "static/js/main.b529d3d7.js"
+    "static/js/main.e27de9d3.js"
   ]
 }
