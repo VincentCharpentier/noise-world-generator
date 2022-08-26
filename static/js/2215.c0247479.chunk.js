@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoise_world_generator=self.webpackChunknoise_world_generator||[]).push([[2215],{2215:function(e,n,s){e.exports=s.p+"static/media/castle_bend_N.23e728fdfe9d2e2bf7b9.png"}}]);

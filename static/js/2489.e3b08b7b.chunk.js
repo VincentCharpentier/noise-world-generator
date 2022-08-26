@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoise_world_generator=self.webpackChunknoise_world_generator||[]).push([[2489],{2489:function(e,n,s){e.exports=s.p+"static/media/castle_gateOpen_W.bf3905c41f7139bd5690.png"}}]);

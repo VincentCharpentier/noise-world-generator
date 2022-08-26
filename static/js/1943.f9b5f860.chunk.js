@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoise_world_generator=self.webpackChunknoise_world_generator||[]).push([[1943],{1943:function(e,s,t){e.exports=t.p+"static/media/castle_tower_E.44a7893cd4097d4a1cbf.png"}}]);

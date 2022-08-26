@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoise_world_generator=self.webpackChunknoise_world_generator||[]).push([[7025],{7025:function(e,n,r){e.exports=r.p+"static/media/castle_corner_W.d3a415a29d3d0b658067.png"}}]);

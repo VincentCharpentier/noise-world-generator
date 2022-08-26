@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoise_world_generator=self.webpackChunknoise_world_generator||[]).push([[1754],{1754:function(e,n,o){e.exports=o.p+"static/media/building_doorWindowsBeige_S.2fa2f422ba347bdb3eb0.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoise_world_generator=self.webpackChunknoise_world_generator||[]).push([[2612],{2612:function(e,r,s){e.exports=s.p+"static/media/structure_arch_E.d52a3557d1e991cac254.png"}}]);
