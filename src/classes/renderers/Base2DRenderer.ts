@@ -6,7 +6,8 @@ import { BaseRenderer } from './BaseRenderer';
 export const MIN_ZOOM = 5; // = max zoom out
 export const MAX_ZOOM = 50; // = max zoom in
 
-const getTileSize = (cameraZoom: number) => MIN_ZOOM + cameraZoom * (MAX_ZOOM - MIN_ZOOM);
+const getTileSize = (cameraZoom: number) =>
+  Math.round(MIN_ZOOM + cameraZoom * (MAX_ZOOM - MIN_ZOOM));
 
 export abstract class Base2DRenderer extends BaseRenderer {
   tileSize = 10;
