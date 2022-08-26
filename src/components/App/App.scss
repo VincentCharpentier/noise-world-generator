@@ -1,0 +1,28 @@
+.app {
+  background: lightgoldenrodyellow;
+  --color-dark: #282c34;
+  --color-light: #e9e7e2;
+
+  display: grid;
+  font-size: calc(10px + 1vmin);
+  grid-template-columns: minmax(200px, auto) 1fr;
+  grid-template-rows: auto 1fr;
+  grid-template-areas: 'header header' 'settings main';
+  height: 100vh;
+
+  & > header {
+    background-color: var(--color-dark);
+    color: white;
+    font-size: 2em;
+    padding: 5px 10px;
+    grid-area: header;
+  }
+
+  & > .sidebar {
+    grid-area: settings;
+  }
+
+  & > .main {
+    grid-area: main;
+  }
+}
